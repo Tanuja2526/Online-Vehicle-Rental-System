@@ -1,4 +1,4 @@
-//not in use
+//link to profile 
 
 import React from "react";
 import backgroundImage from "../img/background.jpg"; // Update the path as needed
@@ -39,7 +39,7 @@ const RentalHistoryPage = () => {
           className="w-32 h-32 rounded-full border-4 border-white shadow-lg"
         />
         <h1 className="text-3xl font-bold text-white mt-4 drop-shadow-lg">
-          Welcome, John Doe
+          Welcome, Tanuja
         </h1>
       </div>
 

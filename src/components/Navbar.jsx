@@ -9,7 +9,7 @@ import {
   FaBars,
   FaTimes,
 } from "react-icons/fa";
-import logo from "../assets/images/car_emoji.png";
+import logo from "../img/car.jpg";
 import profileImg from "../img/profile.png"; // Example profile image
 
 const Navbar = () => {
